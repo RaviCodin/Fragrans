@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68b0ca9b.css",
+    "main.js": "/static/js/main.44bc22e7.js",
+    "static/media/tutorials.jpeg": "/static/media/tutorials.80ceb220578b9b4e21b2.jpeg",
+    "static/media/aromatherapy.jpeg": "/static/media/aromatherapy.e9a8d87a1a9cc62381b8.jpeg",
+    "static/media/village2.jpg": "/static/media/village2.1ce36bfe6c3f6ff99cfc.jpg",
+    "static/media/Hospitality.jpeg": "/static/media/Hospitality.ab7b03f0014e39385270.jpeg",
+    "static/media/Corporate-gifting.jpeg": "/static/media/Corporate-gifting.4bf7a16c817a720e9704.jpeg",
+    "static/media/gettyimages-170498166-1024x1024.jpg": "/static/media/gettyimages-170498166-1024x1024.9a15a7f5c7b5562fe9a2.jpg",
+    "static/media/hello_banner_4100x.webp": "/static/media/hello_banner_4100x.0ac45ce6147eb70231fe.webp",
+    "static/media/village.jpg": "/static/media/village.895a0c4182c8651104ed.jpg",
+    "static/media/Gera_540x.webp": "/static/media/Gera_540x.46eb016a3527a2132bfc.webp",
+    "static/media/Blue_1_540x.webp": "/static/media/Blue_1_540x.0f08fda703088e47f840.webp",
+    "static/media/Orange_1_540x.webp": "/static/media/Orange_1_540x.6e84a93e0c8ef06e3804.webp",
+    "static/media/Logo.avif": "/static/media/Logo.4fd3eb9684e2860dc142.avif",
+    "static/media/Fran_360x.webp": "/static/media/Fran_360x.28a6516f9931b4ccfe17.webp",
+    "index.html": "/index.html",
+    "main.68b0ca9b.css.map": "/static/css/main.68b0ca9b.css.map",
+    "main.44bc22e7.js.map": "/static/js/main.44bc22e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b0ca9b.css",
+    "static/js/main.44bc22e7.js"
+  ]
+}
